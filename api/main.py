@@ -41,5 +41,5 @@ def post(num):
     return template.render(post = currpost)
 
 
-if  __name__ == "__main__":
-    app.run(debug=True)
+# if  __name__ == "__main__":
+#     app.run(debug=True)
